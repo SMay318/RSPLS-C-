@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSPLS_proj", "RSPLS_proj\RSPLS_proj.csproj", "{C77FE712-E8EF-4B0B-8509-50C062BBDBE5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSPLS_project", "RSPLS_project\RSPLS_project.csproj", "{3944F9DF-9CFE-4C3D-88CE-BB09907FC742}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C77FE712-E8EF-4B0B-8509-50C062BBDBE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C77FE712-E8EF-4B0B-8509-50C062BBDBE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C77FE712-E8EF-4B0B-8509-50C062BBDBE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C77FE712-E8EF-4B0B-8509-50C062BBDBE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3944F9DF-9CFE-4C3D-88CE-BB09907FC742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3944F9DF-9CFE-4C3D-88CE-BB09907FC742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3944F9DF-9CFE-4C3D-88CE-BB09907FC742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3944F9DF-9CFE-4C3D-88CE-BB09907FC742}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {32E0FCF0-275C-424E-A52C-F55C70647B13}
+		SolutionGuid = {043F0F3F-0A49-4FB8-8AAE-6D2560AA65AA}
 	EndGlobalSection
 EndGlobal
