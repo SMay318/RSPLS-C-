@@ -1,10 +1,12 @@
-﻿namespace RSPLS_project
+﻿using System;
+
+namespace RSPLS_project
 { 
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Game game = new Game();
         }
     }
 

@@ -22,6 +22,9 @@ namespace RSPLS_project
             string AiGesture;
 
             AiGesture = gestures[random.Next(0, 5)];
+            Console.WriteLine(player.name + " chose {0} ", AiGesture);
+            Console.ReadLine();
+            return AiGesture;
         }
     }
 }

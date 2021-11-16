@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RSPLS_project
 {
-    class Game
+    public class Game
     {
         Player player1;
         Player player2;
@@ -18,5 +18,6 @@ namespace RSPLS_project
         {
             gestures = new List<string>() { "rock", "paper", "scissors", "Lizard", "spock" };
             round = 1;
+        }
     }
 }
