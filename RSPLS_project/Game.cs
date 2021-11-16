@@ -16,8 +16,50 @@ namespace RSPLS_project
 
         public Game()
         {
+            
             gestures = new List<string>() { "rock", "paper", "scissors", "Lizard", "spock" };
             round = 1;
+            DisplayWelcome();
+        }
+
+        public void DisplayWelcome()
+        {
+            Console.WriteLine("Welcome to RSPLS");
+
+        }
+
+        public void SetUpGame()
+        {
+
+        }
+
+        public void RunGame()
+        {
+
+        }
+
+        public Player GetNewPlayer(Player player, bool isPlayer1)
+        {
+            string playerType;
+
+            Console.WriteLine("What type of player is Player 1? Choose 'human' or 'ai'");
+            playerType = Console.ReadLine().ToLower();
+
+
+            switch(playerType)
+            {
+                case "human":
+            }
+        }
+
+        public void WinnerOfRound()
+        {
+
+        }
+
+        public void WinnerOfGame()
+        {
+
         }
     }
 }
